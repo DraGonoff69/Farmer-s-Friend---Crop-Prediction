@@ -14,6 +14,10 @@ Join Farmer Friend today and experience the power of HTML, CSS, React, and Chat 
 
 Go to app.js open terminal and write npm i to install the packages. Before running this experiment remember to have node.js installed in your system with other relevant packages.
 
+Then go to index.html and go live with it.
+
+Now, project is ready to go
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
