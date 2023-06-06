@@ -13,6 +13,8 @@ We take pride in the accuracy and reliability of our predictions, and we are com
 
 Join Farmer Friend today and experience the power of HTML, CSS, React, and Chat GPT API in revolutionizing your farming practices. Together, let's grow a sustainable future for agriculture!
 
+The project consists of two branches, one main branch containing of code to run crop prediction part successfully using react and the farmer friend branch consisting of HTML, CSS of the website build.
+
 To make the webiste work,
 
 Firstly, Go to app.js in main branch, open terminal and write npm i to install the packages. Before running this experiment remember to have node.js installed in your system with other relevant packages.
