@@ -12,7 +12,6 @@ Once the data is submitted, our website leverages the Chat GPT API to provide ac
 
 I take pride in the accuracy and reliability of our predictions, and we are committed to continuously improving the Farmer Friend platform. I understand the importance of timely and accurate information for farmers, and our goal is to empower them with the knowledge they need to make informed decisions and maximize their crop yields.
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx---------------------------------------------------------------------------------------------------------------xxxxxxxxxxxxxxxxxxxxx
 
 The project consists of two branches, one main branch containing of code to run crop prediction part successfully using react and the farmer friend branch consisting of HTML, CSS of the website build.
 
