@@ -10,7 +10,7 @@ One of the standout features of Farmer Friend is the Crop Prediction section, wh
 Once the data is submitted, our website leverages the Chat GPT API to provide accurate and insightful crop predictions. Chat GPT, a state-of-the-art language model, analyzes the input data and generates comprehensive reports on the most suitable crops for the given conditions. The predictions are displayed in an easy-to-read format, with detailed information about each recommended crop's characteristics, growth cycle, and potential yield.
 
 
-I take pride in the accuracy and reliability of our predictions, and we are committed to continuously improving the Farmer Friend platform. I understand the importance of timely and accurate information for farmers, and our goal is to empower them with the knowledge they need to make informed decisions and maximize their crop yields.
+I take pride in the accuracy and reliability of our predictions, and I aM committed to continuously improving the Farmer Friend platform. I understand the importance of timely and accurate information for farmers, and our goal is to empower them with the knowledge they need to make informed decisions and maximize their crop yields.
 
 
 The project consists of two branches, one main branch containing of code to run crop prediction part successfully using react and the farmer friend branch consisting of HTML, CSS of the website build.
